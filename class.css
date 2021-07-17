@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+    color: black;
+}
+form{
+    padding: 10px 8px;
+    margin: 10px 15px;
+    background-color: lightgreen;
+}
+fieldset{
+    padding: 8px 6px;
+    margin: 10px 8px;
+    border-radius: 1%;
+    background-color: whitesmoke;
+}
+legend{
+    color: navy;
+    font-weight: 700;
+}
+input[type="radio"]{
+    cursor: pointer;
+}
+input,textarea{
+    padding: 8px 6px;
+    border-radius: 2px;
+}
+
+
